@@ -22,3 +22,4 @@ SEE WITH ULTRASOUND AND LEARN WITH LIGHT
 7)esp32 mcu = 10 €
 
 ΣΥΝΟΛΟ= 85 € 
+https://drive.google.com/file/d/1m3ihW9JfUxpuznq1MQz2F4OTCkRb4xFK/view?usp=sharing
