@@ -29,18 +29,19 @@ SEE WITH ULTRASOUND AND LEARN WITH LIGHT
 Λίστα υλικών :
 
 1)Fermion TMF8801 ToF Distance Ranging Sensor (20-2500mm) =16,20 €  (=link https://grobotronics.com/fermion-tmf8801-tof-distance-ranging-sensor-20-2500mm.html )   ή ισοδυναμο
-Gravity VL53L0X ToF Distance Sensor (30-2000mm) €16  (=link https://grobotronics.com/gravity-vl53l0x-tof-distance-sensor-30-2000mm.html )
 
-2)Fermion Αισθητήρας Θερμοκρασίας Υψηλής Ακρίβειας I2C – MCP9808 =8,60 €     (=link  https://grobotronics.com/fermion-high-accuracy-temperature-sensor-mcp9808.html )
+2)Gravity VL53L0X ToF Distance Sensor (30-2000mm) €16  (=link https://grobotronics.com/gravity-vl53l0x-tof-distance-sensor-30-2000mm.html )
 
-3)Βάση Στήριξης για Αισθητήρα Υπερήχων =1  €         (=link https://grobotronics.com/mounting-bracket-for-ultrasonic-sensor.html)
+3)Fermion Αισθητήρας Θερμοκρασίας Υψηλής Ακρίβειας I2C – MCP9808 =8,60 €     (=link  https://grobotronics.com/fermion-high-accuracy-temperature-sensor-mcp9808.html )
+
+4)Βάση Στήριξης για Αισθητήρα Υπερήχων =1  €         (=link https://grobotronics.com/mounting-bracket-for-ultrasonic-sensor.html)
 
 
-4)Αισθητήρας Υπερήχων 2 - 450cm HY-SRF05 = € 3,60        (=link  https://grobotronics.com/ultrasonic-sensor-ranging-detector-2-450cm-hy-srf05.html )
+5)Αισθητήρας Υπερήχων 2 - 450cm HY-SRF05 = € 3,60        (=link  https://grobotronics.com/ultrasonic-sensor-ranging-detector-2-450cm-hy-srf05.html )
 
-5)ΚΑΛΩΔΙΑ,breadboard ΚΤΛ =25 €
+6)ΚΑΛΩΔΙΑ,breadboard ΚΤΛ =25 €
 
-6)esp32 mcu = 11 €  για περαιτέρω βελτίωση του έργου    (=link https://grobotronics.com/seeed-studio-xiao-esp32-s3-plus.html)
+7)esp32 mcu = 11 €  για περαιτέρω βελτίωση του έργου    (=link https://grobotronics.com/seeed-studio-xiao-esp32-s3-plus.html)
 
 ΣΥΝΟΛΟ= 95 € 
 
