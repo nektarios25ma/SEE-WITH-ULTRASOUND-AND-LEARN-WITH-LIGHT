@@ -17,7 +17,8 @@ https://drive.google.com/file/d/1m3ihW9JfUxpuznq1MQz2F4OTCkRb4xFK/view?usp=shari
  
 
 # SEE-WITH-ULTRASOUND-AND-LEARN-WITH-LIGHT
-SEE WITH ULTRASOUND AND LEARN WITH LIGHT= diy lab instrument for high school education
+SEE WITH ULTRASOUND AND LEARN WITH LIGHT= diy lab instrument for high school education.  
+
 Παρατηρώντας την εξέλιξη της εκπαίδευσης τοπικά και παγκόσμια στο τομέα των θετικών επιστημών βλέπουμε τις ανισότητες να οξύνονται . Έχοντας  κατά νου ότι το ανοικτό software και hardware αποτελεί ευκαιρία και εργαλείο για την άμβλυνση των κοινωνικών ανισοτήτων θα δημιουργήσουμε μια σειρά από ρομποτικά πειραματικά και εργαστηριακά εργαλεία που διδάσκουν θετικές επιστήμες διασκεδάζοντας τα παιδιά.
 SEE WITH ULTRASOUND AND LEARN WITH LIGHT
 Α) ΒΛΕΠΩ ΜΕ ΤΟΝ ΥΠΕΡΗΧΟ ΚΑΙ ΜΑΘΑΙΝΩ ΜΕ ΤΟ ΦΩΣ
