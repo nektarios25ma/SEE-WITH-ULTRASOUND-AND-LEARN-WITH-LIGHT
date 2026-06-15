@@ -1,3 +1,21 @@
+ΟΝΟΜΑ ΟΜΑΔΑΣ: SEE WITH ULTRASOUND AND LEARN WITH LIGHT
+
+ΤΙΤΛΟΣ ΕΡΓΟΥ: SEE WITH ULTRASOUND AND LEARN WITH LIGHT
+
+ΕΡΓΟ  ΜΑΘΗΤΡΙΑΣ  Α ΛΥΚΕΙΟΥ ΤΟΥ ΓΕΛ ΝΕΑΣ ΚΥΔΩΝΙΑΣ
+VIDEO LINK  :
+https://drive.google.com/file/d/1m3ihW9JfUxpuznq1MQz2F4OTCkRb4xFK/view?usp=sharing
+
+Παρουσίαση pptx(σύντομη): https://github.com/nektarios25ma/SEE-WITH-ULTRASOUND-AND-LEARN-WITH-LIGHT/blob/main/%CF%80%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%B9%CE%B1%CF%83%CE%B7.pptx
+
+ 
+
+Κύκλωμα: https://github.com/nektarios25ma/SEE-WITH-ULTRASOUND-AND-LEARN-WITH-LIGHT/blob/main/%CE%BA%CF%85%CE%BA%CE%BB%CF%89%CE%BC%CE%B1.png
+
+Κώδικας : https://github.com/nektarios25ma/SEE-WITH-ULTRASOUND-AND-LEARN-WITH-LIGHT/blob/main/maybeFINALuno_nonblocking_fixed.ino
+
+ 
+
 # SEE-WITH-ULTRASOUND-AND-LEARN-WITH-LIGHT
 SEE WITH ULTRASOUND AND LEARN WITH LIGHT= diy lab instrument for high school education
 Παρατηρώντας την εξέλιξη της εκπαίδευσης τοπικά και παγκόσμια στο τομέα των θετικών επιστημών βλέπουμε τις ανισότητες να οξύνονται . Έχοντας  κατά νου ότι το ανοικτό software και hardware αποτελεί ευκαιρία και εργαλείο για την άμβλυνση των κοινωνικών ανισοτήτων θα δημιουργήσουμε μια σειρά από ρομποτικά πειραματικά και εργαστηριακά εργαλεία που διδάσκουν θετικές επιστήμες διασκεδάζοντας τα παιδιά.
