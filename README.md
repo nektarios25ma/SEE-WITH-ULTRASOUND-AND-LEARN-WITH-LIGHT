@@ -34,10 +34,9 @@ SEE WITH ULTRASOUND AND LEARN WITH LIGHT
 
 4)Αισθητήρας Υπερήχων 2 - 450cm HY-SRF05 = € 3,60 
 
+5)ΚΑΛΩΔΙΑ ΚΤΛ =25 €
 
-5) ΚΑΛΩΔΙΑ ΚΤΛ =25 €
-
-7)esp32 mcu = 10 €
+6)esp32 mcu = 10 €
 
 ΣΥΝΟΛΟ= 85 € 
 
