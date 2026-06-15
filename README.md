@@ -14,6 +14,8 @@ https://drive.google.com/file/d/1m3ihW9JfUxpuznq1MQz2F4OTCkRb4xFK/view?usp=shari
 
 Κώδικας : https://github.com/nektarios25ma/SEE-WITH-ULTRASOUND-AND-LEARN-WITH-LIGHT/blob/main/maybeFINALuno_nonblocking_fixed.ino
 
+Εργαλεία α) hardware : pc ,soldering iron 
+β)software : Arduino ide 
  
 
 # SEE-WITH-ULTRASOUND-AND-LEARN-WITH-LIGHT
